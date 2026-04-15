@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rifqi Al Ghifari 👋
 
-<!--
-**KikySukaTahu/KikySukaTahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Informatics Engineering Student | 4th Semester**
 
-Here are some ideas to get you started:
+I am a passionate developer focusing on Web and Mobile Development. Currently crafting code and exploring modern frameworks to build functional, user-centric applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐧 About Me
+- 🎓 **Semester 4** Informatics Engineering student.
+- 💻 Crafting code on **Ubuntu** (Current Daily Driver) 🐧.
+- 🚀 Living in the terminal, debugging in the browser.
+- 🎹 Piano player & Anime watcher in between compile times.
+
+### 🔭 What I'm Working On
+- 📱 **Mobile Development**: Currently deep-diving into **Flutter** for cross-platform apps.
+- 🌐 **Web Development**: Experienced with **Laravel**, **CodeIgniter 4**, and Native PHP.
+- 🛠️ **Current Project**: Refining a Digital Library Information System.
+
+### 📂 Highlighted Projects
+- **Digital Library System**: Built with CodeIgniter 4.
+- **Inventory App**: Developed using Kotlin and Retrofit API.
+- **School Management System**: A comprehensive system built with PHP.
+
+### 🛠 Tech Stack & Tools
+- **Languages**: PHP, Kotlin, Dart, Java.
+- **Frameworks**: Laravel, CodeIgniter 4, Flutter.
+- **Database**: MySQL, PostgreSQL.
+- **Tools**: Android Studio, VS Code, Git.
+
+### 🌱 Learning & Interests
+- 📈 Actively learning **Technical Analysis** for trading (Smart Money Concepts & Price Action).
+- 🎹 Playing piano and exploring music production.
+- 🍱 Anime enthusiast.
+
+### 📊 GitHub Stats
+![Rifqi's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ubuntu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=ubuntu)
+
+---
+*“Debug the world, one line at a time.”*
