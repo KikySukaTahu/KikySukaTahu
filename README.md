@@ -31,9 +31,5 @@ I am a passionate developer focusing on Web and Mobile Development. Currently cr
 - 🎹 Playing piano and exploring music production.
 - 🍱 Anime enthusiast.
 
-### 📊 GitHub Stats
-![Rifqi's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ubuntu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=ubuntu)
-
 ---
 *“Debug the world, one line at a time.”*
